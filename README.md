@@ -23,3 +23,8 @@
 ## 3、Tendorflow的配置
 * 安装`miniconda`，如果本地没有
 * 在存放`environment.yml`的路径下执行：`conda env create -f environment.yml`
+
+# 执行
+在`tf_2.1`的环境中执行`jupyter notebook`，打开工程中的`.ipynb`文件
+> `.ipynb`文件中并非所有的都需要执行，具备一定基础的可以明白里面的内容 \
+> `data/` 文件夹中保存的是该工程中会下载的四张图片，如果网络不好可以注释掉下载的代码，直接使用这四张图片
